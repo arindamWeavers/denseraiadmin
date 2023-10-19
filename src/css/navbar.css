@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+.font-family-karla { font-family: karla; }
+.bg-sidebar { background: #000; }
+.cta-btn { color: #3d68ff; }
+.upgrade-btn { background: #454545; }
+.upgrade-btn:hover { background: #454545; }
+.active-nav-link { background: #454545; }
+.nav-item:hover { background: #454545; }
+.account-link:hover { background: #454545; }
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
